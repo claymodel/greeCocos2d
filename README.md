@@ -2,6 +2,7 @@ greeCocos2d
 ===========
 File Name : setup.sh
 -----------------------
+
 #!/bin/sh
 
 URL="http://cocos2d-x.googlecode.com/files/"
